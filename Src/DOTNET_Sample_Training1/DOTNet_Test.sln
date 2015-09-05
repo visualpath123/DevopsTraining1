@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6C46331C-800E-45D0-B97B-17FCCCEE07B9}"
+	ProjectSection(SolutionItems) = preProject
+		DOTNet_Test.vsmdi = DOTNet_Test.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYDOTNet", "MYDOTNet\MYDOTNet.csproj", "{9474C830-AC9A-4834-AA59-212C876F22E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYTestProjectTest", "MYTestProjectTest\MYTestProjectTest.csproj", "{99D02407-B3AE-4A25-BE99-081574F91AF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOTNET_TEST4.Tests", "DOTNET_TEST4.Tests\DOTNET_TEST4.Tests.csproj", "{5B803853-6AA1-4D6C-A564-EA7085160848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOTNet_Test2", "DOTNet_Test2\DOTNet_Test2.csproj", "{2FDD5E00-4E4D-4F63-94FA-594DDE9A5188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOTNet_Test3", "DOTNet_Test3\DOTNet_Test3.csproj", "{EA8FC6D0-57E5-49E8-BFFD-B32CAD24914D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOTNet_Test3.Test", "DOTNet_Test3.Test\DOTNet_Test3.Test.csproj", "{A8585123-A450-4778-9AAB-0DB820B0ED12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9474C830-AC9A-4834-AA59-212C876F22E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9474C830-AC9A-4834-AA59-212C876F22E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9474C830-AC9A-4834-AA59-212C876F22E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9474C830-AC9A-4834-AA59-212C876F22E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D02407-B3AE-4A25-BE99-081574F91AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D02407-B3AE-4A25-BE99-081574F91AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D02407-B3AE-4A25-BE99-081574F91AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D02407-B3AE-4A25-BE99-081574F91AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B803853-6AA1-4D6C-A564-EA7085160848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B803853-6AA1-4D6C-A564-EA7085160848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B803853-6AA1-4D6C-A564-EA7085160848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B803853-6AA1-4D6C-A564-EA7085160848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FDD5E00-4E4D-4F63-94FA-594DDE9A5188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FDD5E00-4E4D-4F63-94FA-594DDE9A5188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FDD5E00-4E4D-4F63-94FA-594DDE9A5188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FDD5E00-4E4D-4F63-94FA-594DDE9A5188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA8FC6D0-57E5-49E8-BFFD-B32CAD24914D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8FC6D0-57E5-49E8-BFFD-B32CAD24914D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8FC6D0-57E5-49E8-BFFD-B32CAD24914D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8FC6D0-57E5-49E8-BFFD-B32CAD24914D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8585123-A450-4778-9AAB-0DB820B0ED12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8585123-A450-4778-9AAB-0DB820B0ED12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8585123-A450-4778-9AAB-0DB820B0ED12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8585123-A450-4778-9AAB-0DB820B0ED12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = DOTNet_Test.vsmdi
+	EndGlobalSection
+EndGlobal

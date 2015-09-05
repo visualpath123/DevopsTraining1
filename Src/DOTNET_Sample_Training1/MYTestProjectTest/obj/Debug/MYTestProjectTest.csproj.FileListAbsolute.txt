@@ -1,0 +1,7 @@
+e:\Jenkins\workspace\DOTNET_Sample_Training1\MYTestProjectTest\bin\Debug\MYTestProjectTest.dll
+e:\Jenkins\workspace\DOTNET_Sample_Training1\MYTestProjectTest\bin\Debug\MYTestProjectTest.pdb
+e:\Jenkins\workspace\DOTNET_Sample_Training1\MYTestProjectTest\bin\Debug\MYDOTNet.dll
+e:\Jenkins\workspace\DOTNET_Sample_Training1\MYTestProjectTest\bin\Debug\MYDOTNet.pdb
+e:\Jenkins\workspace\DOTNET_Sample_Training1\MYTestProjectTest\obj\Debug\MYTestProjectTest.csprojResolveAssemblyReference.cache
+e:\Jenkins\workspace\DOTNET_Sample_Training1\MYTestProjectTest\obj\Debug\MYTestProjectTest.dll
+e:\Jenkins\workspace\DOTNET_Sample_Training1\MYTestProjectTest\obj\Debug\MYTestProjectTest.pdb

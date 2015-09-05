@@ -1,0 +1,4 @@
+e:\Jenkins\workspace\DOTNET_Sample_Training1\DOTNet_Test3\bin\Debug\DOTNet_Test3.dll
+e:\Jenkins\workspace\DOTNET_Sample_Training1\DOTNet_Test3\bin\Debug\DOTNet_Test3.pdb
+e:\Jenkins\workspace\DOTNET_Sample_Training1\DOTNet_Test3\obj\Debug\DOTNet_Test3.dll
+e:\Jenkins\workspace\DOTNET_Sample_Training1\DOTNet_Test3\obj\Debug\DOTNet_Test3.pdb

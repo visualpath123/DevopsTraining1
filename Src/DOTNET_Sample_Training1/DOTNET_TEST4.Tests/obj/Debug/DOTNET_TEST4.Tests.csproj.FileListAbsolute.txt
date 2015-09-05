@@ -1,0 +1,7 @@
+e:\Jenkins\workspace\DOTNET_Sample_Training1\DOTNET_TEST4.Tests\bin\Debug\DOTNET_TEST4.Tests.dll
+e:\Jenkins\workspace\DOTNET_Sample_Training1\DOTNET_TEST4.Tests\bin\Debug\DOTNET_TEST4.Tests.pdb
+e:\Jenkins\workspace\DOTNET_Sample_Training1\DOTNET_TEST4.Tests\bin\Debug\DOTNet_Test2.dll
+e:\Jenkins\workspace\DOTNET_Sample_Training1\DOTNET_TEST4.Tests\bin\Debug\DOTNet_Test2.pdb
+e:\Jenkins\workspace\DOTNET_Sample_Training1\DOTNET_TEST4.Tests\obj\Debug\DOTNET_TEST4.Tests.csprojResolveAssemblyReference.cache
+e:\Jenkins\workspace\DOTNET_Sample_Training1\DOTNET_TEST4.Tests\obj\Debug\DOTNET_TEST4.Tests.dll
+e:\Jenkins\workspace\DOTNET_Sample_Training1\DOTNET_TEST4.Tests\obj\Debug\DOTNET_TEST4.Tests.pdb

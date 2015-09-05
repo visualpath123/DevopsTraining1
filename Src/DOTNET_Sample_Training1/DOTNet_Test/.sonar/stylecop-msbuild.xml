@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="StyleCopLaunch" ToolsVersion="3.5">
+    <PropertyGroup>
+        <ProjectRoot>e:\Jenkins\workspace\DOTNET_Sample</ProjectRoot>
+        <StyleCopRoot>C:\Program Files (x86)\StyleCop 4.7</StyleCopRoot>
+    </PropertyGroup>
+    <UsingTask TaskName="StyleCopTask" AssemblyFile="$(StyleCopRoot)\StyleCop.dll"></UsingTask>
+    <ItemGroup>
+        <Project Include="e:\Jenkins\workspace\DOTNET_Sample\DOTNet_Test\DOTNet_Test.csproj"></Project>
+    </ItemGroup>
+    <Target Name="StyleCopLaunch">
+        <CreateItem Include="%(Project.RootDir)%(Project.Directory)**\*.cs">
+            <Output ItemName="SourceAnalysisFiles" TaskParameter="Include"></Output>
+        </CreateItem>
+        <StyleCopTask MaxViolationCount="-1" OverrideSettingsFile="E:\jenkins\workspace\DOTNET_Sample\DOTNet_Test\.sonar\sonar.StyleCop"
+            OutputFile="E:\jenkins\workspace\DOTNET_Sample\DOTNet_Test\.sonar\stylecop-report.xml"
+            TreatErrorsAsWarnings="true" ForceFullAnalysis="true"
+            SourceFiles="@(SourceAnalysisFiles);@(CSFile)"
+            ProjectFullPath="e:\Jenkins\workspace\DOTNET_Sample\DOTNet_Test.sln"></StyleCopTask>
+    </Target>
+</Project>

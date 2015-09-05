@@ -1,0 +1,7 @@
+e:\Jenkins\workspace\DOTNET_Sample2\DOTNet_Test3.Tests\bin\Debug\DOTNet_Test.dll
+e:\Jenkins\workspace\DOTNET_Sample2\DOTNet_Test3.Tests\bin\Debug\DOTNet_Test.pdb
+e:\Jenkins\workspace\DOTNET_Sample2\DOTNet_Test3.Tests\obj\Debug\ResolveAssemblyReference.cache
+e:\Jenkins\workspace\DOTNET_Sample2\DOTNet_Test3.Tests\bin\Debug\DOTNet_Test3.Tests.dll
+e:\Jenkins\workspace\DOTNET_Sample2\DOTNet_Test3.Tests\bin\Debug\DOTNet_Test3.Tests.pdb
+e:\Jenkins\workspace\DOTNET_Sample2\DOTNet_Test3.Tests\obj\Debug\DOTNet_Test3.Tests.dll
+e:\Jenkins\workspace\DOTNET_Sample2\DOTNet_Test3.Tests\obj\Debug\DOTNet_Test3.Tests.pdb

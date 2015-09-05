@@ -1,0 +1,5 @@
+e:\Jenkins\workspace\DOTNET_Sample_Training1\MYDOTNet\bin\Debug\MYDOTNet.dll
+e:\Jenkins\workspace\DOTNET_Sample_Training1\MYDOTNet\bin\Debug\MYDOTNet.pdb
+e:\Jenkins\workspace\DOTNET_Sample_Training1\MYDOTNet\obj\Debug\MYDOTNet.csprojResolveAssemblyReference.cache
+e:\Jenkins\workspace\DOTNET_Sample_Training1\MYDOTNet\obj\Debug\MYDOTNet.dll
+e:\Jenkins\workspace\DOTNET_Sample_Training1\MYDOTNet\obj\Debug\MYDOTNet.pdb
